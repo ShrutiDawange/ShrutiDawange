@@ -1,4 +1,4 @@
-# Hi there, I'm Shruti Dawange 👋  
+# Hi there, I'm Shruti  
 
 
 ### 🚀 About Me
