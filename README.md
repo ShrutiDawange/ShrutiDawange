@@ -1,10 +1,15 @@
-### Hi there, I am Shruti Dawange 👋
+# Hi there, I'm Shruti Dawange 👋  
 
 
-- 🌱 I’m currently learning Python with AI.
-- 📫 Strong foundation in Java Full Stack Development, Networking, with experience in backend development.
-- 👯 I’m looking to collaborate on python and java projects.
-- 🤔 I’m looking for help with data structures and algorithms.
-- 🌱 Along with that I am proficient in core subjects like Operating Systems and SQL.
-- 📫 How to reach me: shrutidawange1043@gmail.com
-- 😄 Pronouns: She/Her
+### 🚀 About Me
+- 🌱 Currently learning **Python for AI/ML**.  
+- 💻 Strong foundation in **Java Full Stack Development** and **Networking**, with hands-on experience in **Backend Development**.  
+- 📚 Proficient in core CS subjects including **Operating Systems**, **SQL**, and **Data Structures & Algorithms**.  
+- 👯 Open to collaborating on **Python** and **Java projects**.  
+- 🤝 Actively improving my **DSA skills** for coding challenges & interviews.  
+
+### 📫 Connect with Me
+- 📧 Email: **shrutidawange1043@gmail.com**  
+- 💼 LinkedIn: **(https://www.linkedin.com/in/shruti-dawange)**
+
+✨ *"Always curious, always learning — building strong foundations for a future in tech."*
