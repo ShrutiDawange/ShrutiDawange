@@ -12,4 +12,4 @@
 - 📧 Email: **shrutidawange1043@gmail.com**  
 - 💼 LinkedIn: **(https://www.linkedin.com/in/shruti-dawange)**
 
-✨  *"Always curious, always learning — building strong foundations for a future in tech."*
+✨  *"Always curious, always learning — building strong foundations for a future in tech "*
