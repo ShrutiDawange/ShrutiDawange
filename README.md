@@ -2,7 +2,8 @@
 
 
 ### 🚀 About Me
-- 🌱 Currently learning **Python for AI/ML**.  
+- 🌱 Currently learning **Python for AI/ML**.
+- 💻 Exploring LLMs, RAG and AI Agent Models. 
 - 💻 Strong foundation in **Java Full Stack Development** and **Networking**, with hands-on experience in **Backend Development**.  
 - 📚 Proficient in core CS subjects including **Operating Systems**, **SQL**, and **Data Structures & Algorithms**.  
 - 👯 Open to collaborating on **Python** and **Java projects**.  
