@@ -1,7 +1,6 @@
 # Hi there, I'm Shruti
 
-
-### 🚀 About Me
+### 🚀About Me
 - 🌱 Currently learning **Python for AI/ML**.
 - 💻 Exploring LLMs, RAG and AI Agent Models. 
 - 💻 Strong foundation in **Java Full Stack Development** and **Networking**, with hands-on experience in **Backend Development**.  
